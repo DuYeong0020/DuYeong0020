@@ -1,9 +1,9 @@
-# 👋 안녕하세요 
+# 👋 안녕하세요, 저는 두영입니다!
 
 ## 💻 소개
 - 🚀 백엔드 개발자 (Java, Spring Boot)
-- 📚 AWS 기반 CI/CD 공부 중 (EC2, GitHub Actions, Docker, Nginx)
-- 🐶 현재 미용사들이 피드백을 주고받을 수 있는 반려견 미용 피드백 플랫폼 개발 중
+- 📚 AWS 기반 CI/CD 공부 중 (EC2, GitHub Actions, Docker)
+- 🐶 미용사들이 피드백을 주고받을 수 있는 반려견 미용 피드백 플랫폼 개발 중
 - 🌱 객체지향 설계 & 클린 코드 실천을 중요하게 생각합니다.
 
 ## ⚡ 기술 스택
@@ -21,13 +21,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuYeong0020&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?DuYeong0020=your-DuYeong0020&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?DuYeong0020=your-DuYeong0020&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuYeong0020&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DuYeong0020&theme=radical" />
 </p>
 
 ## 📫 연락하기
 <p align="center">
-  <a href="mailto:duyeong0020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://duyeong0020.github.io"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
 </p>
 
