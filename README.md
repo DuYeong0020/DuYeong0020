@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 저는 두영입니다!
+# 👋 안녕하세요!
 
 ## 💻 소개
 - 🚀 백엔드 개발자 (Java, Spring Boot)
@@ -32,7 +32,7 @@
 </p>
 
 ---
-<p align="center">💡 <strong>"🦦"</strong></p>
+<p align="center">💡 <strong>🦦</strong></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
