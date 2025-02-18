@@ -20,11 +20,11 @@
 
 ## 📊 GitHub 활동
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuYeong0020&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?DuYeong0020=your-DuYeong0020&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?DuYeong0020=your-DuYeong0020&theme=radical" />
 </p>
 
 ## 📫 연락하기
