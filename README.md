@@ -28,12 +28,11 @@
 ## 📫 연락하기
 <p align="center">
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://duyeong0020.github.io"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
 </p>
 
 ---
-<p align="center">💡 <strong>"목적을 가지고 코드를 작성하고, 열정을 가지고 배워나가자!"</strong></p>
+<p align="center">💡 <strong>"🦦"</strong></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
