@@ -18,7 +18,7 @@
 </p>
 
 ## 📊 GitHub 활동
-![두영's GitHub stats](https://github-readme-stats.vercel.app/api?username=dueyong0020&show_icons=true&theme=radical)
+[![Duyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=duyeong0020)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 연락하기
