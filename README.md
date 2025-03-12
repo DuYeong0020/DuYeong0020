@@ -18,13 +18,8 @@
 </p>
 
 ## 📊 GitHub 활동
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuYeong0020&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuYeong0020&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DuYeong0020&theme=radical" />
-</p>
+![두영's GitHub stats](https://github-readme-stats.vercel.app/api?username=dueyong0020&show_icons=true&theme=radical)
+
 
 ## 📫 연락하기
 <p align="center">
